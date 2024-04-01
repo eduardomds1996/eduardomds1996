@@ -20,4 +20,4 @@ Ao longo dos anos, adquiri experiência trabalhando em uma variedade de projetos
 
 Se você está procurando um desenvolvedor front-end dedicado, criativo e experiente para o seu próximo projeto, estou à disposição para ajudar! Vamos trabalhar juntos para criar algo incrível.
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/eduardo-mendon%C3%A7a-856b9399/) e [GitHub](https://github.com/seu_perfil).
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/eduardo-mendon%C3%A7a-856b9399/).
