@@ -1,4 +1,4 @@
-# Eduardo Mendonça da Silva | Desenvolvedor Front-end
+# Desenvolvedor Front-end
 
 Olá! Meu nome é Eduardo Mendonça, um desenvolvedor front-end com 5 anos de experiência em HTML, CSS, JavaScript, jQuery, e SEO. Além disso, tenho 2 anos de experiência em React, Tailwind CSS, Git, ESLint, e Webflow. Estou comprometido em criar interfaces web impressionantes e funcionais que proporcionem ótimas experiências aos usuários.
 
