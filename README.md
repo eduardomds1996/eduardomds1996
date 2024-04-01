@@ -20,5 +20,5 @@ Ao longo dos anos, adquiri experiência trabalhando em uma variedade de projetos
 
 Se você está procurando um desenvolvedor front-end dedicado, criativo e experiente para o seu próximo projeto, estou à disposição para ajudar! Vamos trabalhar juntos para criar algo incrível.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-mendon%C3%A7a-856b9399/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu_perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-mendon%C3%A7a-856b9399/)
 
