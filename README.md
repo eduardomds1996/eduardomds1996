@@ -1,16 +1,16 @@
-# Perfil de Desenvolvedor Front-End
+# Eduardo Mendonça da Silva | Desenvolvedor Front-end
 
 Olá! Meu nome é Eduardo Mendonça, um desenvolvedor front-end com 5 anos de experiência em HTML, CSS, JavaScript, jQuery, e SEO. Além disso, tenho 2 anos de experiência em React, Tailwind CSS, Git, ESLint, e Webflow. Estou comprometido em criar interfaces web impressionantes e funcionais que proporcionem ótimas experiências aos usuários.
 
 ## Tecnologias e Habilidades
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/office/48/000000/react.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) ![jQuery](https://img.icons8.com/ios-filled/50/000000/jquery.png) ![SEO](https://img.icons8.com/color/48/000000/search.png) ![Git](https://img.icons8.com/ios-filled/50/000000/git.png) ![ESLint](https://img.icons8.com/color/48/000000/eslint.png) ![Webflow](https://img.icons8.com/color/48/000000/webflow.png)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=seo&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 
 ## Experiência
 
 Ao longo dos anos, adquiri experiência trabalhando em uma variedade de projetos desafiadores, incluindo:
 
-- Desenvolvimento de sites corporativos e de comércio eletrônico utilizando WordPress e WooCommerce.
+- Desenvolvimento de sites corporativos e de comércio eletrônico utilizando WordPress.
 - Criação de aplicações web dinâmicas e interativas com React e JavaScript.
 - Implementação de designs responsivos e acessíveis utilizando HTML5, CSS3, e Tailwind CSS.
 - Otimização de desempenho e SEO para melhorar a visibilidade e usabilidade dos sites.
