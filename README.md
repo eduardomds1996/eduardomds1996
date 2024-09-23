@@ -1,6 +1,6 @@
 # Desenvolvedor Front-end
 
-Olá! Meu nome é Eduardo Mendonça, um desenvolvedor front-end com 5 anos de experiência em HTML, CSS, JavaScript, jQuery, e SEO. Além disso, tenho 2 anos de experiência em React, Tailwind CSS, Git, ESLint, e Webflow. Estou comprometido em criar interfaces web impressionantes e funcionais que proporcionem ótimas experiências aos usuários.
+Olá! Meu nome é Eduardo Mendonça, um desenvolvedor front-end com 5 anos de experiência em HTML, CSS, JavaScript, jQuery, e SEO. Além disso, tenho 2 anos de experiência em React, Tailwind CSS, Git, ESLint, e Webflow. Estou comprometido em criar interfaces web funcionais que proporcionem ótimas experiências aos usuários.
 
 ## Tecnologias e Habilidades
 
@@ -10,8 +10,8 @@ Olá! Meu nome é Eduardo Mendonça, um desenvolvedor front-end com 5 anos de ex
 
 Ao longo dos anos, adquiri experiência trabalhando em uma variedade de projetos desafiadores, incluindo:
 
-- Desenvolvimento de sites corporativos e de comércio eletrônico utilizando WordPress.
-- Criação de aplicações web dinâmicas e interativas com React e JavaScript.
+- Desenvolvimento de sites corporativos e lojas virtuais utilizando WordPress.
+- Criação de aplicações web dinâmicas e interativas com React/Typescript.
 - Implementação de designs responsivos e acessíveis utilizando HTML5, CSS3, e Tailwind CSS.
 - Otimização de desempenho e SEO para melhorar a visibilidade e usabilidade dos sites.
 - Trabalho em equipe utilizando Git para controle de versão e colaboração eficiente.
